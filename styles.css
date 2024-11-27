@@ -1,0 +1,33 @@
+.text-down {
+    text-transform: none !important;
+}
+.purple{
+    color: blueviolet;
+}
+.orange{
+    color: orange;
+}
+.ic{
+    background-size: contain; /* Para que el SVG se ajuste al tamaño del contenedor */
+    background-repeat: no-repeat; /* Para que no se repita */
+    width: 1.7rem; /* Ajusta el tamaño del contenedor */
+    height: 1.7rem; /* Ajusta el tamaño del contenedor */
+}
+.django {
+    background-image: url('django-icon.svg');
+}
+.mysql{
+    background-image: url('mysql.svg');
+}
+.node{
+    background-image: url('node-js.svg');
+}
+.react{
+    background-image: url('react.svg');
+}
+.spring{
+    background-image: url('spring.svg');
+}
+.sqlite{
+    background-image: url('sqlite.svg');
+}
