@@ -15,19 +15,25 @@
 }
 .django {
     background-image: url('django-icon.svg');
+    content-visibility: auto;
 }
 .mysql{
     background-image: url('mysql.svg');
+    content-visibility: auto;
 }
 .node{
     background-image: url('node-js.svg');
+    content-visibility: auto;
 }
 .react{
     background-image: url('react.svg');
+    content-visibility: auto;
 }
 .spring{
     background-image: url('spring.svg');
+    content-visibility: auto;
 }
 .sqlite{
     background-image: url('sqlite.svg');
+    content-visibility: auto;
 }
